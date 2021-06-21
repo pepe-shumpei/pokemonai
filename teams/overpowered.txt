@@ -1,0 +1,53 @@
+Landorus-Therian @ Leftovers
+Ability: Intimidate
+EVs: 252 HP / 4 Atk / 252 Def
+Impish Nature
+- Earthquake
+- U-turn
+- Stealth Rock
+- Stone Edge
+
+Thundurus @ Leftovers
+Ability: Prankster
+EVs: 76 Atk / 180 SpA / 252 Spe
+Naive Nature
+- Nasty Plot
+- Thunderbolt
+- Hidden Power [Ice]
+- Knock Off
+
+Rotom-Wash @ Leftovers
+Ability: Levitate
+EVs: 252 SpD / 4 SpA / 252 HP
+Calm Nature
+- Volt Switch
+- Hydro Pump
+- Will-O-Wisp
+- Pain Split
+
+Talonflame @ Sharp Beak
+Ability: Gale Wings
+EVs: 252 Atk / 4 HP / 252 Spe
+Adamant Nature
+- Brave Bird
+- Flare Blitz
+- Swords Dance
+- Roost
+
+Scizor @ Scizorite
+Ability: Light Metal
+EVs: 252 HP / 40 Atk / 116 Def / 100 SpD
+Adamant Nature
+- U-turn
+- Bullet Punch
+- Defog
+- Roost
+
+Meloetta @ Assault Vest
+Ability: Serene Grace
+EVs: 64 Atk / 236 SpA / 208 Spe
+Hasty Nature
+- Psychic
+- Relic Song
+- Close Combat
+- Shadow Ball

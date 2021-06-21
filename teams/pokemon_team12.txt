@@ -1,0 +1,53 @@
+Landorus-Therian @ Leftovers
+Ability: Adamant
+EVs: 252 HP / 252 Atk / 4 Def
+Impish Nature
+- Earthquake
+- U-turn
+- Stealth Rock
+- Shadow Punch
+
+Latios @ Latiosite
+Ability: Levitate
+EVs: 4 Atk / 252 SpA / 252 Spe
+Hasty Nature
+- Draco Meteor
+- Psyshock
+- Defog
+- Earthquake
+
+Gengar @ Life Orb
+Ability: Levitate
+EVs: 252 SpA / 4 SpD / 252 Spe
+Timid Nature
+- Shadow Ball
+- Sludge Wave
+- Focus Blast
+- Taunt
+
+Magnezone @ Choice Scarf
+Ability: Magnet Pull
+EVs: 4 HP / 252 SpA / 252 Spe
+Timid Nature
+- Flash Cannon
+- Volt Switch
+- Thunderbolt
+- Hidden Power [Fire]
+
+Azumarill @ Choice Band
+Ability: Huge Power
+EVs: 252 HP / 252 Atk / 4 SpD
+Adamant Nature
+- Moonblast
+- Waterfall
+- Aqua Jet
+- Knock Off
+
+Clefable @ Leftovers
+Ability: Magic Guard
+EVs: 252 HP / 252 Def / 4 SpA
+Bold Nature
+- Calm Mind
+- Moonblast
+- Stored Power
+- Soft-Boiled
